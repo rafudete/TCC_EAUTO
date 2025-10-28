@@ -30,7 +30,7 @@ PID_Kd = 0.5
 
 # Limiares de Disparo
 limiar_disparo_risco = 85.0 # Risco > 85
-tempo_minimo_disparo = 4.0  # por 2 segundos
+tempo_minimo_disparo = 2.0  # por 2 segundos
 
 # ---------- PARÂMETROS DO CENÁRIO ESPECÍFICO -------------
 
